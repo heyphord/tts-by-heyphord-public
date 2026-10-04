@@ -1,0 +1,7 @@
+fastapi
+soundfile
+numpy
+kokoro
+pydantic
+pydub
+uvicorn
